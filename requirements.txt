@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+faster_whisper
+librosa
+sounddevice
+soundfile
+pydub
+numpy
+coqui-tts
+scipy
